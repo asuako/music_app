@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "665951810725",
+    "firebase_url": "https://mzic-63b17.firebaseio.com",
+    "project_id": "mzic-63b17",
+    "storage_bucket": "mzic-63b17.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:665951810725:android:0e22ce2919d49c34f2894c",
+        "android_client_info": {
+          "package_name": "com.gamturk.mzic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "665951810725-icjfjkbaricg7qd5kjr3643qtiihpd2n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJcgUXoaGSmyVpk9BHjVSNBJOjpcubvv4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "665951810725-icjfjkbaricg7qd5kjr3643qtiihpd2n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
